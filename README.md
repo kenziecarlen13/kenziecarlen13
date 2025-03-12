@@ -1,7 +1,8 @@
 ## Hi there 👋
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenziecarlen13&layout=compact&langs_count=10&theme=tokyonight)
-![Kenzie Stats](https://github-readme-streak-stats.herokuapp.com/?user=kenziecarlen13&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api?username=kenziecarlen13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
+
 
 
 
