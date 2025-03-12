@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## 📊 GitHub Stats
+## Hi there 👋, This is My 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenziecarlen13&layout=compact&langs_count=10&theme=tokyonight)
 
 
