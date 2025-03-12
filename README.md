@@ -1,5 +1,9 @@
 ## Hi there 👋, This is My 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenziecarlen13&layout=compact&langs_count=10&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kenziecarlen13&theme=radical&no-frame=true&margin-w=5)
+![Kenzie Stats](https://github-readme-streak-stats.herokuapp.com/?user=kenziecarlen13&theme=radical)  
+
+
 
 
 
