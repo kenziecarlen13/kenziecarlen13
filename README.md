@@ -1,31 +1,34 @@
-## Hi there 👋
-I'm Kenzie, an Informatics student who loves exploring AI, Cybersecurity, and Game Development!
+## Hi there 👋  
+I'm **Kenzie**, an Informatics student passionate about **AI and Game Development!**  
 
-🔥 I enjoy building AI models and secure systems
-🎮 I sometimes experiment with game development
-🚀 Working on cool projects & learning new things every day
-Let's connect & collaborate on awesome projects! 😃✨
-___
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenziecarlen13&layout=compact&langs_count=10&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=kenziecarlen13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
+### 🚀 About Me  
+- 🎮 Occasionally experimenting with **game development**  
+- 🌱 Always learning and working on **exciting projects**  
+- 💡 Open to **collaboration** and **new ideas**  
+
+Let's connect and create something awesome together! 😃✨  
+
+---
+
+## 📊 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenziecarlen13&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kenziecarlen13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Let's Connect!  
+[![Instagram](https://img.shields.io/badge/-@kncrln_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kncrln_/)
+[![LinkedIn](https://img.shields.io/badge/-Kenzie%20Carlen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenzie-carlen-b841a4253/)
+<!-- [![Email](https://img.shields.io/badge/-Kenzie.Carlen@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzie.carlen@gmail.com) -->
 
 
-
-
-
-
-<!--
-**kenziecarlen13/kenziecarlen13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- komentar  -->
