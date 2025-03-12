@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenziecarlen13&layout=compact&langs_count=10&theme=tokyonight)
+
+
+
 <!--
 **kenziecarlen13/kenziecarlen13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
