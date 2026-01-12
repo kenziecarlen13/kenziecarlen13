@@ -1,16 +1,16 @@
 <table>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./profile.jpg" width="180" height="180" style="border-radius: 50%;" alt="Avatar"/>
+      <img src="https://avatars.githubusercontent.com/u/143706114?v=4" width="180" height="180" style="border-radius: 50%;" alt="Kenzie's Avatar"/>
     </td>
-    <td valign="middle">
+    <td valign="middle">    
       <h1>Hi there, I'm Kenzie! 👋</h1>
       <p>
         An Informatics Student based in <b>Indonesia 🇮🇩</b>
         <br/>
         Focusing on <b>Web Development</b>, <b>AI & Data</b>, and <b>Automation</b>.
-      </p>
-            <i>"Building digital solutions while sipping coffee ☕"</i>
+      </p>      
+      <i>"Building digital solutions while sipping coffee ☕"</i>
       <br/>
       <br/>
       <a href="https://www.instagram.com/pcfndr_/" target="_blank">
