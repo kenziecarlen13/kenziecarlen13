@@ -39,7 +39,7 @@
 
 <h3>GitHub Activity</h3>
 <img
-  src="https://ghchart.rshah.org/F7A1C4/kenziecarlen13?ts=2026"
+  src="https://ghchart.rshah.org/85586F/kenziecarlen13?ts=2026"
   alt="Kenzie's Contribution Graph"
   width="100%"
 />
