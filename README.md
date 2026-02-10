@@ -43,3 +43,5 @@
   alt="Kenzie's Contribution Graph"
   width="100%"
 />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer)
